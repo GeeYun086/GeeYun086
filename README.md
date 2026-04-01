@@ -1,8 +1,8 @@
 <h1 align="center">GeeYun Jung</h1>
-<h3 align="center">IT Engineering · Data Science · AI/ML Engineering</h3>
+<h3 align="center">IT Engineering · AI/ML Engineering · Data Science</h3>
 
 <p align="center">
-<a href="gyjung086@gmail.com">
+<a href="mailto:gyjung086@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/GeeYun086">
