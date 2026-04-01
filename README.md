@@ -1,15 +1,13 @@
 <h1 align="center">GeeYun Jung</h1>
 <h3 align="center">IT Engineering · AI/ML Engineering · Data Science</h3>
 
-<p align="center">
-<a href="mailto:gyjung086@gmail.com"  style="text-decoration: none;">
-  <img style="border: none;" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/GeeYun086"  style="text-decoration: none;">
-  <img style="border: none;" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<img style="border: none;" src="https://img.shields.io/badge/📍Seoul,%20South%20Korea-blue?style=flat-square"/>
-</p>
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gyjung086@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeeYun086)
+  ![Location](https://img.shields.io/badge/📍Seoul,%20South%20Korea-blue?style=flat-square)
+  
+</div>
 
 <br><br>
 
