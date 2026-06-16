@@ -12,7 +12,7 @@
 <br><br>
 
 ## 👩‍💻 About Me
-I am an IT Engineering student currently focused on researching and developing solutions using LLMs, AI agents, and data analysis.  
+I am an IT Engineering student currently focused on researching and developing solutions using Frontend Stacks, LLMs, AI agents, and data analysis.  
 I am particularly interested in building user-centered applications that integrate AI technologies into real-world services.  
 
 ### 🌱 Currently
