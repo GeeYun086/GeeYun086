@@ -17,7 +17,8 @@ I am particularly interested in building user-centered applications that integra
 
 ### 🌱 Currently
 - Studying: IT Engineering & Big Data (GPA: 4.31/4.5)
-- Exploring: AI/ML systems & AI Agent 
+- Building: **Polight** — Travel insurance AI chatbot app (Capstone Project · Finnect Finalist 🏆)
+- Exploring: AI/ML systems & AI Agent
 
 ### 💡 Interests
 - LLM / AI Agent / Generative AI  
@@ -44,27 +45,25 @@ I am particularly interested in building user-centered applications that integra
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
-
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-
 ### ⚙️ Backend / DB
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 
 ### 🤖 AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
-
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
 ### 🛠 Tools
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)
@@ -76,7 +75,9 @@ I am particularly interested in building user-centered applications that integra
 ## 🏆 Achievements
 
 | Year | Achievement | Details |
-|------|------------|--------|
+|------|------------|---------|
+| 2026 | **Finnect Competition Finalist** | Developed *Polight* — travel insurance AI chatbot app (Capstone Project) |
+| 2026 | **Snowflake AI & Data Hackathon Korea** | Developed *살림길* — personalized rental recommendation AI agent |
 | 2025 | Presented at University of Würzburg Summer EXPO & Released on Steam | Developed *Gravity Gauntlet* game |
 | 2025 | Excellence Award, JBNU Winter Big Data Camp Prompt Engineering Competition | Designed LLM prompts to improve response quality |
 | 2024 | Grand Prize, DACOS & SOLUX Hackathon | Developed *ReadIT* application |
@@ -90,13 +91,17 @@ I am particularly interested in building user-centered applications that integra
 
 | Project | Duration | Description | Tech Stack | Link |
 |--------|----------|------------|-----------|------|
-| CarYou | 2025.11 | AI-based personalized routine care platform for job seekers | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Repo](https://github.com/GeeYun086/unidthon-caryou-frontend) |
-| RE:WEAR Lab | 2025.09 ~ 2025.12 | AI-based automation platform for second-hand clothing resale | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai) | [Repo](https://github.com/GeeYun086/rewearlab-ai-project) |
-| Gravity Gauntlet | 2025.03 ~ 2025.07 | A gravity-based 3D cube puzzle platformer game | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp) | [Repo](https://github.com/GeeYun086/gravity-gauntlet-game-project) |
-| Olympiad JBNU Prompt Engineering | 2025.01 | Experimented with prompt design and context-based response generation for LLMs | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai) | [Repo](https://github.com/GeeYun086/olympiad-jbnu-prompt-engineering) |
-| ReadIT | 2024.11 | IT news summarization app based on data analysis | ![React_Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Repo](https://github.com/GeeYun086/dacos-solux-readIT-frontend) |
-| DotheG | 2024.09 ~ 2025.02 | Eco-friendly app with character collection and AI quest verification | ![React_Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Repo](https://github.com/GeeYun086/solux-dotheG-frontend) |
-| InnoVel | 2024.03 ~ 2024.08 | AI-based novel creation and sharing platform with plot recommendations | ![React_Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Repo](https://github.com/GeeYun086/solux-innovel-frontend) |
-| Travel Around The World | 2024.06 ~ 2025.02 | 2D visual novel simulation game set in a train café | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp) | [Repo](https://github.com/GeeYun086/tums-travel-around-the-world) |
-| Helping Snowman | 2023.12 ~ 2024.02 | 2D platformer game about overcoming challenges | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp) | [Repo](https://github.com/GeeYun086/helping-snowman-game-project) |
-| CIFAR-10 Classification | 2023.03 ~ 2023.06 | CNN-based model comparison and performance optimization project | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | [Repo](https://github.com/GeeYun086/cifar10-machine-learning-project) |
+| **Polight** ✈️ | 2026.03 ~ | Travel insurance AI chatbot app — auto-parses policy PDFs and explains coverage | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) | [Repo](https://github.com/GeeYun086/capstone-polight-ai) |
+| **살림길** 🏠 | 2026.04 ~ 2026.05 | Personalized rental recommendation & moving checklist AI agent (Snowflake Hackathon) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | [Repo](https://github.com/GeeYun086/salimgil-ai-project) |
+| Steam Review Analyzer | 2026.05 | Steam game review analysis platform (Vibe Coding bootcamp project) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Repo](https://github.com/GeeYun086/steam-review-analyzer) |
+| CarYou 🚀 | 2025.11 | AI-based personalized routine care platform for job seekers | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Repo](https://github.com/GeeYun086/unidthon-caryou-frontend) |
+| RE:WEAR Lab 🧥 | 2025.09 ~ 2025.12 | AI-based automation platform for second-hand clothing resale | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai) | [Repo](https://github.com/GeeYun086/rewearlab-ai-project) |
+| Gravity Gauntlet 🎮 | 2025.03 ~ 2025.07 | A gravity-based 3D cube puzzle platformer game | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp) | [Repo](https://github.com/GeeYun086/gravity-gauntlet-game-project) |
+| Olympiad JBNU Prompt Engineering 🧠 | 2025.01 | Experimented with prompt design and context-based response generation for LLMs | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai) | [Repo](https://github.com/GeeYun086/olympiad-jbnu-prompt-engineering) |
+| Smart Vending Machine | 2024 | Java-based smart vending machine system | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java) | [Repo](https://github.com/GeeYun086/smart-vending-machine) |
+| ReadIT ✍️ | 2024.11 | IT news summarization app based on data analysis | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Repo](https://github.com/GeeYun086/dacos-solux-readIT-frontend) |
+| DotheG 🍃 | 2024.09 ~ 2025.02 | Eco-friendly app with character collection and AI quest verification | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Repo](https://github.com/GeeYun086/solux-dotheG-frontend) |
+| InnoVel 📖 | 2024.03 ~ 2024.08 | AI-based novel creation and sharing platform with plot recommendations | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Repo](https://github.com/GeeYun086/solux-innovel-frontend) |
+| Travel Around The World 🚆 | 2024.06 ~ 2025.02 | 2D visual novel simulation game set in a train café | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp) | [Repo](https://github.com/GeeYun086/tums-travel-around-the-world) |
+| Helping Snowman ⛄ | 2023.12 ~ 2024.02 | 2D platformer game about overcoming challenges | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp) | [Repo](https://github.com/GeeYun086/helping-snowman-game-project) |
+| CIFAR-10 Classification 🧠 | 2023.03 ~ 2023.06 | CNN-based model comparison and performance optimization project | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | [Repo](https://github.com/GeeYun086/cifar10-machine-learning-project) |
