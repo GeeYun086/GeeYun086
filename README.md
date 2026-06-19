@@ -1,5 +1,5 @@
 <h1 align="center">Geeyun Jung</h1>
-<h3 align="center">IT Engineering · AI/ML Engineering · Data Science</h3>
+<h3 align="center">AI Engineering · Frontend</h3>
 
 <div align="center">
   
