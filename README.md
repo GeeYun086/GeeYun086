@@ -17,7 +17,6 @@ I am particularly interested in building user-centered applications that integra
 
 ### 🌱 Currently
 - Studying: IT Engineering & Big Data (GPA: 4.31/4.5)
-- Building: **Polight** — Travel insurance AI chatbot app (Capstone Project · Finnect Finalist 🏆)
 - Exploring: AI/ML systems & AI Agent
 
 ### 💡 Interests
