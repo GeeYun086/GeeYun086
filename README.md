@@ -75,8 +75,6 @@ I am particularly interested in building user-centered applications that integra
 
 | Year | Achievement | Details |
 |------|------------|---------|
-| 2026 | **Finnect Competition Finalist** | Developed *Polight* — travel insurance AI chatbot app (Capstone Project) |
-| 2026 | **Snowflake AI & Data Hackathon Korea** | Developed *살림길* — personalized rental recommendation AI agent |
 | 2025 | Presented at University of Würzburg Summer EXPO & Released on Steam | Developed *Gravity Gauntlet* game |
 | 2025 | Excellence Award, JBNU Winter Big Data Camp Prompt Engineering Competition | Designed LLM prompts to improve response quality |
 | 2024 | Grand Prize, DACOS & SOLUX Hackathon | Developed *ReadIT* application |
@@ -90,9 +88,9 @@ I am particularly interested in building user-centered applications that integra
 
 | Project | Duration | Description | Tech Stack | Link |
 |--------|----------|------------|-----------|------|
-| **Polight** ✈️ | 2026.03 ~ | Travel insurance AI chatbot app — auto-parses policy PDFs and explains coverage | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) | [Repo](https://github.com/GeeYun086/capstone-polight-ai) |
-| **살림길** 🏠 | 2026.04 ~ 2026.05 | Personalized rental recommendation & moving checklist AI agent (Snowflake Hackathon) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | [Repo](https://github.com/GeeYun086/salimgil-ai-project) |
-| Steam Review Analyzer | 2026.05 | Steam game review analysis platform (Vibe Coding bootcamp project) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Repo](https://github.com/GeeYun086/steam-review-analyzer) |
+| Polight ✈️ | 2026.03 ~ | Travel insurance AI chatbot app — auto-parses policy PDFs and explains coverage | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) | [Repo](https://github.com/GeeYun086/capstone-polight-ai) |
+| 살림길 🏠 | 2026.04 ~ 2026.05 | Personalized rental recommendation & moving checklist AI agent (Snowflake Hackathon) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | [Repo](https://github.com/GeeYun086/salimgil-ai-project) |
+| 스팀 리뷰 분석기 🎮 | 2026.05 | Steam game review analysis platform (Vibe Coding bootcamp project) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Repo](https://github.com/GeeYun086/steam-review-analyzer) |
 | CarYou 🚀 | 2025.11 | AI-based personalized routine care platform for job seekers | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Repo](https://github.com/GeeYun086/unidthon-caryou-frontend) |
 | RE:WEAR Lab 🧥 | 2025.09 ~ 2025.12 | AI-based automation platform for second-hand clothing resale | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai) | [Repo](https://github.com/GeeYun086/rewearlab-ai-project) |
 | Gravity Gauntlet 🎮 | 2025.03 ~ 2025.07 | A gravity-based 3D cube puzzle platformer game | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp) | [Repo](https://github.com/GeeYun086/gravity-gauntlet-game-project) |
