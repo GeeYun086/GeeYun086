@@ -1,5 +1,5 @@
 <h1 align="center">Geeyun Jung</h1>
-<h3 align="center">AI/ML Engineering · App Development</h3>
+<h3 align="center">Product AI Engineering · App Development</h3>
 
 <div align="center">
   
