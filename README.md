@@ -29,12 +29,10 @@
 - 🇩🇪 **Freemover Student, University of Würzburg (2025 Summer Semester)**  
   - Studied Computer Science and expanded global perspective  
   - Participated in a Game Studio course and collaborated with international students  
-  - Traveled across multiple European countries  
 
 - 🇺🇸 **Sookmyung x Harvard Global Program (Jan 2026 – Feb 2026)**  
   - Attended lectures by researchers and PhD-level speakers from Harvard, MIT, and other Boston institutions  
-  - Engaged in networking sessions and career exploration through coffee chats  
-  - Improved English proficiency and adaptability through local immersion  
+  - Engaged in networking sessions and career exploration
 
 <br><br>
 
